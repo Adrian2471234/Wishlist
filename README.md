@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/83449a3f43604805b745e193c3284cda' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+<!-- Loom Recording -->
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
