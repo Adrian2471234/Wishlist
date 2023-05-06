@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 https://www.loom.com/share/83449a3f43604805b745e193c3284cda
 
 <!-- Loom Recording -->
-GIF created with ...  
+GIF created with Loom Recording ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
