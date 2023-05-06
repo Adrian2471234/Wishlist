@@ -24,10 +24,9 @@ The following **additional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/83449a3f43604805b745e193c3284cda' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.loom.com/share/83449a3f43604805b745e193c3284cda
 
 <!-- Loom Recording -->
 GIF created with ...  
